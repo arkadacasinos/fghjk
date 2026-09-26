@@ -94,6 +94,7 @@ export default function RootLayout({
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="ru_RU" />
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="yandex-verification" content="69ce50a4a31d3271" />
       </head>
       <body className="antialiased">
         {children}
